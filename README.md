@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Symfony,Spring**
 
-- 💬 Ask me about **PHP,LARAVEL,VUEJS,REACTJS,ANGULAR**
+- 💬 Ask me about **PHP,LARAVEL,VUEJS,REACTJS,ANGULAR,REACT NATIVE,NODEJS,EXPRESSJS**
 
 - 📫 How to reach me **hamzaelmouhtadi@gmail.com**
 
